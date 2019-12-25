@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577038520 source:e:\it\c++\duzy_lotek\duzy_lotek\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
